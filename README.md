@@ -56,16 +56,22 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 
 ## Output:
+Data head
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/f73a6b6a-dc8d-46b9-bec0-925f2987b8b4)
 
+Data info
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/fdbd28e8-5c14-4dcc-94b2-a4f2f116dac4)
 
+Null dataset
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/3e00b52b-efa3-4fe2-9318-d76b368eb014)
 
+Values count in left column
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/021f53bb-329c-46a3-987e-5b5b69d65b6f)
 
+Dataset transformed head
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/82c38a2a-c053-4fb9-8ce2-aa0a54f41817)
 
+x.head
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/4128b7da-8aa6-4224-bd12-4623e0cdb4fa)
 
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/ed4abbf1-f5bd-4c6e-85ce-fbf43d72326f)
