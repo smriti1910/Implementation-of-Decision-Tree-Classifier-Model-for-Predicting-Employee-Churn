@@ -79,9 +79,9 @@ x.head
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/d5c6c6f2-0adb-4ff7-b269-9abb660a708e)
 
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/13872b4b-f536-4593-8a7c-5c2c27d77038)
-
+Accuracy
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/b2c9fa75-ce3e-4fcf-b16f-89732c9b04e4)
-
+Prediction
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/d49e4ec1-76e9-4faa-b20b-27a994b5849f)
 
 
